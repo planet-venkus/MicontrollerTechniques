@@ -1,0 +1,8 @@
+Name: Subramanyam Srinivasa Venkat,  Mat No: 4967444
+Exercise No: 07
+
+It was a time consuming exercise and hence 2 week span would have been apt.
+
+Specific Problems:
+1. Understanding the Timer A0 was quite a challenge for me.
+2. Testing was a challenge as my board stopped working properly.

@@ -1,0 +1,16 @@
+Name: Subramanyam Srinivasa Venkat
+Mat No: 4967444
+Exercise No: 06
+
+Advantages compared to readout structure:
+1. Interrupt is used over polling. The Microcontroller executes the ISR when there is a tap rather than executing in loop(polling).
+2. There is a feedback(Red Light) on sensing the tap.
+3. The sensitivity can be adjusted by using potentiometer.
+
+Analog Front End circuit signal flow:
+1. The Buzzer is connected to the DAC_IN through a Buffer stage.
+2. The Buffer stage isolates the load from the input. The properties of Buffer stage are high input impedence and low output impedence.
+3. The second stage of Analog front end is comparator.
+4. When Input voltage < Reference voltage, output is Vss of Operational Amplifier. when Input voltage > Reference voltage, output is Vcc of Operational amplifier.
+5. The Potentiometer which connected to inverting terminal of operational amplifier(reference to schematic in Board Schematic.pdf, page 4), allows
+   range reference voltage to be selected between 0v anSd 3.3v.  

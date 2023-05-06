@@ -1,0 +1,7 @@
+Name: Subramanyam Srinivasa Venkat,  Mat No: 4967444
+Exercise No: 06
+
+Thank you for the exercise. Understood the previous exercise implementation from different perspective
+
+Specific problems:
+1. Vibration detection which was later adjusted by proper setting of potentiometer.
