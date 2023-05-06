@@ -1,0 +1,10 @@
+Name: Subramanyam Srinivasa Venkat,  Mat No: 4967444
+Exercise No: 04
+
+Thanks for the previous feedbacks and answers on ILIAS forum, it helped me very much through the exercise.
+Exercise gave a good insight about the usage of Analog to Digital Converter.
+
+Specific problems:
+1. I find Blue LED to be working in reverse logic (i.e, ON when connected to ground and OFF when connected to +5V).
+2. Testing for Bonus part was difficult as we didnt have chips for Yellow, Cyan and Magenta.
+3. Used different materials like paper/ plastic cap for testing the other colour LID as this affected the range setting

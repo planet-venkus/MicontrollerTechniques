@@ -1,0 +1,13 @@
+/*
+* Name: Subramanyam Srinivasa Venkat
+* Matriculation: 4967444
+*/
+
+Feedback:
+o Thank you for the feedback from exercise 1. It helped me improve the quality of my code and submission.
+o Positive Remarks: The exercise gave a very good insight about polling, interrupt and ISR
+o Issues: 
+1. Initally i felt it difficult to understand the use case of interrupts. 
+2. Also understanding the initialization of Port 1 as interrupt was diffcult. Documentation solved these issues.
+3. I couldnt figure out why setting P1.0 was turning OFF the connected BLUE LED.
+o Additional requests: None

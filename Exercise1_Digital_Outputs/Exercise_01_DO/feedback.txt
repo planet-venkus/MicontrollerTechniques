@@ -1,0 +1,8 @@
+Name: Subramanyam Srinivasa Venkat,  Mat No: 4967444
+
+The Exercise zero and one were a very good introduction for programming MSP430. The Video lectures support the course very well.
+
+Specific problems:
+1. Didnt find much information about using PxSELX.
+2. A custom documentaion with only required information could have been more handy(similar to cheatsheet).
+

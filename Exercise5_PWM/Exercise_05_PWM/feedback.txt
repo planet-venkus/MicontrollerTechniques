@@ -1,0 +1,7 @@
+Name: Subramanyam Srinivasa Venkat,  Mat No: 4967444
+Exercise No: 05
+
+It was a very interactive exercise
+
+Specific problems:
+1. Vibrational Input testing was tough as the vibrations was feebly detected

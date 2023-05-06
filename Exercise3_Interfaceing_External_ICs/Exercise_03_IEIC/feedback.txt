@@ -1,0 +1,5 @@
+Name: Subramanyam Srinivasa Venkat
+Mat No: 4967444
+
+1. The exercise task was very nice.
+2. It was tough to implement the playback task execution after Rewind and Fastforward. 
