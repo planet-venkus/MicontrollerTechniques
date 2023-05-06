@@ -1,0 +1,18 @@
+Name: Subramanyam Srinivasa Venkat,  Mat No: 4967444
+Exercise No: 09
+Topic: Dynamic light show
+
+Implemented features:
+1. controlling the speed and direction of the LED running light including D1 to D4.
+2. setting the brightness of the red, green and blue LED using pulse-width modulation.
+3. setting various LED effects such as constant illumination, blinking and breathing for the red, green and blue LED by appropriately controlling the pulse-width modulation.
+
+Not implemented: 
+1. implement a mode in which the brightness is controlled by the ambient light level
+
+
+
+Feedback:
+1. It was a very interesting exercise. It took me time to implement the timer part of the problem. Learning to use both the timers was a great learning.
+2. I tried all the ways to metigate the polling problem of running two timers parallely but it was a learning failure. 
+3. The push buttons were quite unreliable and made it really difficult while testing the implemented code. 
